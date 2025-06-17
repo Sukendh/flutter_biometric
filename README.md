@@ -15,9 +15,8 @@ A Flutter app that combines biometric authentication (Fingerprint / Face ID) usi
 
 ## 📸 Screenshots
 
-| Biometric Prompt | PIN Input |
-|------------------|-----------|
-| ![biometric](screenshots/biometric.png) | ![pin](screenshots/pin.png) |
+![WhatsApp Image 2025-06-17 at 23 59 18](https://github.com/user-attachments/assets/102fb0fa-0314-49b4-9ba4-89af3414309d)
+
 
 ---
 
